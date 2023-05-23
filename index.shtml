@@ -1,0 +1,864 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Haier Smart Life Club</title>
+    <meta name="viewport" content="width=device-width, user-scalable=no">
+    <meta property="og:title" content="#MakeTheHaierSwitch" />
+    <meta property="og:description" content="Shop to Level Up!" />
+    <meta property="og:image" content="/images/promo_title.png" />
+
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-2/css/all.min.css">
+    <link rel="stylesheet" type="text/css" href="images/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css"
+        href="https://unpkg.com/bootstrap-datepicker@1.9.0/dist/css/bootstrap-datepicker3.min.css">
+    <link rel="stylesheet" type="text/css" href="images/owl.carousel.min.css">
+    <link rel="stylesheet" type="text/css" href="images/style.css?v.005">
+
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+    <script type="text/javascript" src="images/jquery-3.3.1.min.js"></script>
+    <script src="https://unpkg.com/bootstrap-datepicker@1.9.0/dist/js/bootstrap-datepicker.min.js"
+        type="text/javascript"></script>
+    <script type="text/javascript" src="images/bootstrap.min.js"></script>
+    <script type="text/javascript" src="images/owl.carousel.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.1/jquery.validate.min.js"></script>
+    <script
+        src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.11/jquery.validate.unobtrusive.min.js">
+    </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-ajax-unobtrusive/3.2.6/jquery.unobtrusive-ajax.min.js">
+    </script>
+</head>
+
+<body>
+    <div class="headerWrapper parallax">
+        <div class="header">
+            <div class="container">
+                <div id="title" >
+                    <div style="position: relative;">
+                        <img src="images/arrows.png" width="90%" style="position: absolute;" class="arrows">
+                       
+                    </div>
+                    <img src="images/promo_title.png" class="title " style="width: 90%; margin-top: 6rem; ">
+                    <h3 style="margin-top: -5rem;">BUY ANY HAIER PRODUCT AND GET CHANCE TO WIN ANOTHER HAIER APPLIANCE!</h3>
+                  
+                   
+                </div>
+            <!-- <div style="position: relative; width: 100%; float: right; padding: 2.5rem; background-color: red;">
+                <div style="position: absolute;">
+                    <img src="images/promo_title.png" width="90%" alt="">
+                </div>
+                <img src="images/arrows.png" width="90%" alt="">
+            </div> -->
+                <a href="https://www.haier.com/my/"><img src="images/blue-logo.png" class="white-logo"></a>
+                <img src="images/prizes.png" class="prizes">
+            </div>
+        </div>
+    </div>
+
+    <div class="mechanicsWrapper">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12 ">
+                    <h1  >BE ONE OF 20 WINNERS OF ANY OF THE FOLLOWING EXCITING PRIZES!</h1>
+                </div>
+            </div>
+        </div>
+    <div>
+    
+            
+            <button type="button" role="presentation" class="owl-prev" style="position: absolute;left: 5px;top: 50%;z-index: 999;background: transparent;border: none;font-size: 30px;"><span aria-label="Previous">‹</span></button>
+            
+            <div class="owl-carousel owl-theme">
+                <div class="item">
+                    <img src="images/90cm Gas Stove.jpg">
+                    <p>
+                        4 Winners of
+                        <span>90cm Gas Stove</span>
+                    </p>
+                </div>
+                <div class="item">
+                    <img src="images/Self-Clean Air Conditioner.jpg">
+                    <p>
+                        4 Winners of
+                        <span>Self-Clean Air Conditioner</span>
+                    </p>
+                </div>
+                <div class="item">
+                    <img src="images/T-Door Glass Refrigerator.jpg">
+                    <p>
+                        4 Winners of
+                        <span>T-Door Glass Refrigerator</span>
+                    </p>
+                </div>
+                <div class="item">
+                    <img src="images/Smart AI UHD TV.jpg">
+                    <p>
+                        4 Winners of
+                        <span>Smart AI UHD TV</span>
+                    </p>
+                </div>
+                <div class="item">
+                    <img src="images/Front Load Inverter.jpg">
+                    <p>
+                        4 Winners of
+                        <span>Front Load Inverter
+                            Washing Machine</span>
+                    </p>
+                </div>
+            </div>
+            <button type="button" role="presentation" class="owl-next" style="position: absolute;right: 5px;top: 50%;z-index: 999;background: transparent;border: none;font-size: 30px;"><span aria-label="Next">›</span></button>
+        </div>  
+    </div>
+    <div class="promoWrapper">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-6 col-md-6 bg-white mech-cont" style="padding: 26px;" >
+                    <div class="form">
+                        <div class="formwrapper" >
+                            <div class="title">Mechanics</div>
+                            <ol class="list-mechanics">
+                                <li><p>Promo is open to all who will purchase any Haier models in any participating dealer’s stores/branches.   </p></li>
+                                <li><p>Promo runs from October 1 to November 15, 2021.</p></li> 
+                                <li><p>Customer will automatically get one (1) raffle entry for every purchase of any Haier models.</p></li>
+                                <li><p>Participants should visit the Shop to Level Up Raffle promo page at  https://www.haier.com/ph/markets/ShopToLevelUpRafflePromo to register their Official Receipt (OR) by providing the required details and uploading a photo of their OR.</p></li>
+                                <li><p>Winners will be drawn via electronic raffle on November 22, 2021.</p></li>
+                                <li><p>Five winners (5) will be chosen from Metro Manila, 5 winners from Luzon, 5 winners from Visayas, and 5 winners from Mindanao.</p></li>
+                                <li><p> Haier Philippines employees and participating Dealer’s employees as well as their family members up to second degree of consanguinity and affinity are not qualified to join the promo. </p></li>
+                            </ol>
+                           <small class="float-right">Per DTI FTEB Permit Number #####</small>
+                            <!-- <table id="steps">
+                                <tr" >
+                                    <td>
+                                        <h2 class="steps-num">1</h2>
+                                    </td>
+                                    <td>
+                                        <p>
+                                            Promo is open to all who will purchase any Haier models in any participating dealer’s stores/branches.
+                                        </p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <h2 class="steps-num">2</h2>
+                                    </td>
+                                    <td>
+                                        <p>
+                                            Promo runs from October 1 to November 15, 2021.
+                                        </p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <h2 class="steps-num">3</h2>
+                                    </td>
+                                    <td>
+                                       
+                                        <p>
+                                            Customer will automatically get one (1) raffle entry for every purchase of any Haier models.
+                                        </p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <h2 class="steps-num">4</h2>
+                                    </td>
+                                    <td>
+                                        <p>Participants should visit the Shop to Level Up Raffle promo page at https://www.haier.com/ph/markets/ShopToLevelUpRafflePromo to register their OR/Official Receipt by filling-out the needed details and uploading of the photo of their OR.</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <h2 class="steps-num">5</h2>
+                                    </td>
+                                    <td>
+                                       
+                                        <p>
+                                            Haier Philippines employees and participating Dealer’s employees as well as their family members up to second degree of consanguinity and affinity are not qualified to join the promo.
+                                        </p>
+                                    </td>
+                                </tr>
+                            </table> -->
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-6 col-md-6 haier-form">
+                    <div class="form">
+                        <div class="formwrapper">
+                            <form id="haier-form" 
+                                action="#"
+                                data-ajax="true" data-ajax-method="POST" data-ajax-success="success"
+                                enctype="multipart/form-data" method="post">
+                                <div class="formTitle">Register your Haier
+                                    appliance receipt to join!</div>
+                                <table id="profile"
+                                    style="width: 100%; max-width: 600px; margin-top: 20px; margin-bottom: 20px;">
+                                    <tr>
+                                        <td>
+                                            <div class="caption">First Name</div>
+                                        </td>
+                                        <td>
+                                            <input type="text" name="FirstName" placeholder="" required>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <div class="caption">Last Name</div>
+                                        </td>
+                                        <td>
+                                            <input type="text" name="LastName" placeholder="" required>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <div class="caption">Birthday</div>
+                                        </td>
+                                        <td>
+                                            <input type="text" class="datepicker"
+                                                name="Birthday" placeholder="" autocomplete="off">
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <div class="caption">Gender</div>
+                                        </td>
+                                        <td>
+                                            <select name="Gender" required>
+                                                <option value="Male">Male</option>
+                                                <option value="Female">Female</option>
+                                            </select>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <div class="caption">State/Municipality</div>
+                                        </td>
+                                        <td>
+                                            <select name="State" required>
+                                                <option value="" selected disabled>State/Municipality</option>
+                                                <option value="Abra">Abra</option>
+                                                <option value="Agusan del Norte">Agusan del Norte</option>
+                                                <option value="Agusan del Sur">Agusan del Sur</option>
+                                                <option value="Aklan">Aklan</option>
+                                                <option value="Albay">Albay</option>
+                                                <option value="Angeles">Angeles</option>
+                                                <option value="Antique">Antique</option>
+                                                <option value="Apayao">Apayao</option>
+                                                <option value="Aurora">Aurora</option>
+                                                <option value="Baguio">Baguio</option>
+                                                <option value="Basilan">Basilan</option>
+                                                <option value="Bataan">Bataan</option>
+                                                <option value="Batanes">Batanes</option>
+                                                <option value="Batangas">Batangas</option>
+                                                <option value="Benguet">Benguet</option>
+                                                <option value="Biliran">Biliran</option>
+                                                <option value="Bohol">Bohol</option>
+                                                <option value="Bukidnon">Bukidnon</option>
+                                                <option value="Bulacan">Bulacan</option>
+                                                <option value="Cagayan">Cagayan</option>
+                                                <option value="Camarine SNorte">Camarine SNorte</option>
+                                                <option value="Camarine SSur">Camarine SSur</option>
+                                                <option value="Camiguin">Camiguin</option>
+                                                <option value="Capiz">Capiz</option>
+                                                <option value="Catanduanes">Catanduanes</option>
+                                                <option value="Cavite">Cavite</option>
+                                                <option value="Cebu">Cebu</option>
+                                                <option value="Compostela Valley">Compostela Valley</option>
+                                                <option value="Cotabato">Cotabato</option>
+                                                <option value="Dagupan">Dagupan</option>
+                                                <option value="Davao Occidental">Davao Occidental</option>
+                                                <option value="Davao Oriental">Davao Oriental</option>
+                                                <option value="Davao del Norte">Davao del Norte</option>
+                                                <option value="Davao del Sur">Davao del Sur</option>
+                                                <option value="Dinagat Islands">Dinagat Islands</option>
+                                                <option value="Eastern Samar">Eastern Samar</option>
+                                                <option value="Guimaras">Guimaras</option>
+                                                <option value="Ifugao">Ifugao</option>
+                                                <option value="Iloco SNorte">Iloco SNorte</option>
+                                                <option value="Iloco SSur">Iloco SSur</option>
+                                                <option value="Iloilo">Iloilo</option>
+                                                <option value="Isabela">Isabela</option>
+                                                <option value="Kalinga">Kalinga</option>
+                                                <option value="La Union">La Union</option>
+                                                <option value="Laguna">Laguna</option>
+                                                <option value="Lanao del Norte">Lanao del Norte</option>
+                                                <option value="Lanao del Sur">Lanao del Sur</option>
+                                                <option value="Leyte">Leyte</option>
+                                                <option value="Lucena">Lucena</option>
+                                                <option value="Maguindanao">Maguindanao</option>
+                                                <option value="Marinduque">Marinduque</option>
+                                                <option value="Masbate">Masbate</option>
+                                                <option value="Metro Manila">Metro Manila</option>
+                                                <option value="Mindoro Occidental">Mindoro Occidental</option>
+                                                <option value="Mindoro Oriental">Mindoro Oriental</option>
+                                                <option value="Misami SOccidental">Misami SOccidental</option>
+                                                <option value="Misami SOriental">Misami SOriental</option>
+                                                <option value="Mountain Province">Mountain Province</option>
+                                                <option value="Naga">Naga</option>
+                                                <option value="Negro SOccidental">Negro SOccidental</option>
+                                                <option value="Negro SOriental">Negro SOriental</option>
+                                                <option value="Northern Samar">Northern Samar</option>
+                                                <option value="Nueva Ecija">Nueva Ecija</option>
+                                                <option value="Nueva Vizcaya">Nueva Vizcaya</option>
+                                                <option value="Olongapo">Olongapo</option>
+                                                <option value="Palawan">Palawan</option>
+                                                <option value="Pampanga">Pampanga</option>
+                                                <option value="Pangasinan">Pangasinan</option>
+                                                <option value="Puerto Princesa">Puerto Princesa</option>
+                                                <option value="Quezon">Quezon</option>
+                                                <option value="Quirino">Quirino</option>
+                                                <option value="Rizal">Rizal</option>
+                                                <option value="Romblon">Romblon</option>
+                                                <option value="Samar">Samar</option>
+                                                <option value="Santiago">Santiago</option>
+                                                <option value="Sarangani">Sarangani</option>
+                                                <option value="Siquijor">Siquijor</option>
+                                                <option value="Sorsogon">Sorsogon</option>
+                                                <option value="South Cotabato">South Cotabato</option>
+                                                <option value="Southern Leyte">Southern Leyte</option>
+                                                <option value="Sultan Kudarat">Sultan Kudarat</option>
+                                                <option value="Sulu">Sulu</option>
+                                                <option value="Surigao del Norte">Surigao del Norte</option>
+                                                <option value="Surigao del Sur">Surigao del Sur</option>
+                                                <option value="Tarlac">Tarlac</option>
+                                                <option value="Tawi-Tawi">TawiTawi</option>
+                                                <option value="Zambales">Zambales</option>
+                                                <option value="Zamboanga">Zamboanga</option>
+                                                <option value="Zamboanga del Norte">Zamboanga del Norte</option>
+                                                <option value="Zamboanga del Sur">Zamboanga del Sur</option>
+                                            </select>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <div class="caption">Mobile Number</div>
+                                        </td>
+                                        <td>
+                                            <input type="text" name="Mobile" placeholder=""
+                                                pattern="^(09|\+639)(\d{9})$" required>
+                                        </td>
+                                    </tr>
+                                    <tr style="border-bottom: 1px solid #FFFF; border-width: 100%;">
+                                        <td>
+                                            <div class="caption">Email Address</div>
+                                        </td>
+                                        <td>
+                                            <input type="email" name="Email" placeholder="email@email.com" required>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <div class="caption">Delear / Store Name</div>
+                                        </td>
+                                        <td>
+                                            <input type="email" name="DelearStore" placeholder="" required>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <div class="caption">Date of Purchase</div>
+                                        </td>
+                                        <td>
+                                            <input type="text" class="datepicker"
+                                                name="DatePurchase" placeholder="" autocomplete="off">
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <div class="caption">Appliance Owner Name</div>
+                                        </td>
+                                        <td>
+                                            <input type="text" name="Owner" placeholder="" required>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <div class="caption">Receipt Number</div>
+                                        </td>
+                                        <td  >
+                                            <input type="text" name="Receipt" placeholder=""
+                                                pattern="^(09|\+639)(\d{9})$" required>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style="display: inherit; float: right;">
+                                            <div class="caption" >OR Photo</div>
+                                        </td>
+                                        <td class="fileInput" >
+                                            <p>
+                                                <a href="javascript:;" class="button-upload button button-grey"
+                                                style=" margin-left: 15px; border:none;  border-radius: 3px;font-size: 13px; cursor:pointer">Upload</a>
+                                                <input type="file" name="UserPhoto" id="fileToUpload"
+                                                    style="opacity:0;"
+                                                    accept="image/x-png,image/gif,image/jpeg,image/heif,image/heic"
+                                                    required>
+                                            </p>
+                                          
+                                        </td>
+                                    </tr>
+                                </table>
+
+                                <div class="formSection text-center">
+                                    <div style="width: 100%; max-width: 600px; margin: auto;">
+                                        <!-- <div class="caption">
+                                            <span
+                                                style="font-size: 14px; margin-bottom: 12px; margin-top: -30px; display: block;">
+                                                Upload a Selfie with Your Haier Appliance!
+                                            </span>
+
+                                            <div class="text-center">
+                                                <a href="javascript:;" class="button-upload button button-grey"
+                                                    style="width: 300px;border-radius: 0;font-size: 15px;padding: 5px;margin-bottom: 10px;">Upload</a>
+                                                <input type="file" name="UserPhoto" id="fileToUpload"
+                                                    style="opacity:0;position:"
+                                                    accept="image/x-png,image/gif,image/jpeg,image/heif,image/heic"
+                                                    required>
+                                            </div>
+                                            <p style="font-size: 12px; line-height: 18px; font-style: italic;">
+                                                By signing up, you agree to subscribe to monthly promotional
+                                                notifications via email and mobile about Haier's latest promos and
+                                                announcements. You may unsubscribe anytime.
+                                            </p>
+                                        </div> -->
+                                        <div class="captcha" style="margin: auto; text-align:center ">
+                                            <!-- <div class="g-recaptcha"
+                                                data-sitekey="6Lc0hLoaAAAAALFL2pg6Sq8kh8qIa1Lh2LneueNl"
+                                                data-callback="correctCaptcha"></div>
+                                            <br> -->
+                                            <button type="submit" class="btn-proceed btn-submit-entry">
+                                            Proceed<i id="loading" class="fa fa-spinner fa-spin"
+                                                style="display: none;font-size: 20px;margin-left: 10px; "></i>
+                                            </button>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    
+    <div class="footer">
+        <div class="row" style="flex-direction: row-reverse;">
+            <div class="col-md-3 text-right">
+                <img class="smartliving" src="images/smart-living.png">
+            </div>
+            <div class="col-md-9 text-left">
+                <img class="appliance" src="images/footer_appliance.png">
+                <a href="javascript:;" data-toggle="modal" data-target="#dpt" >DATA PRIVACY</a>
+            </div>
+        </div>
+    </div>
+    <div id="SuccessMessage" class="messageWrapper">
+        <div class="messageContent" style="background-color: #005BAE !important;">
+            <div class="successContent" style="background-color: #005BAE !important;width: 100%;height: 100%;padding: 20px 98px;">
+                <div class="messageTitle text-white">THANK YOU FOR SUBMITTING YOUR ENTRY TO</div>
+                <img style="width: 100% !important;" class="main-sent" src="images/promo_title.png" style="display: block; margin: auto; width: 195px; ">
+              
+                <div class="messageBody">
+                   <P class="text-white">We have sent an email to acknowledge your submission of entry. Kindly check your inbox or in the spam folder. 
+
+                    Your entry will be subject to review in the next few days, and you will receive an email confirmation along with your ENTRY CODE once we validated your entry. </P>
+                    
+
+                </div>
+                <div class="buttonWrapper"><a href="javascript:;" class="button bg-yellow-btn xButtonClose"
+                        style="border-radius: 0 !important;">OK</a></div>
+            </div>
+        </div>
+    </div>
+    <!-- modal confirmation -->
+    <div id="ModalConfirmation" class="messageWrapper" >
+        <div class="messageContent" style="background-color: #00A2FF !important;">
+            <div style="width: 100%;height: 100%;padding: 20px;">
+                <div class="text-center" style="margin: -40px -40px 0px -40px !important;justify-content: center;background: #ccc;height: 140px;padding: 25px;"  >
+                    <h1 style="font-size: 30px;" class="text-black font-weight-bold mdl-title">CHECK AND REVIEW YOUR INFORMATION BEFORE SUBMITTING YOUR ENTRY</h1>
+                    <p class="mdl-p">Make sure the Receipt Details match your OR. Keep your OR for Verification</p>
+                </div>
+                <div class="pt-10 table-wrap" style="display: flex; margin: 0 auto; justify-content: center; color: #FFFF; width: 70%; font-size: 16px;padding-top: 30px;">
+                   
+                    <div class="table-responsive">
+                        <table class="table table-sm text-white table-res">
+                            <tr>
+                                <td class="text-right" width="50%">First Name:</td>
+                                <td><label for=""  class="font-weight-bold">Dela Cruz</label></td>
+                            </tr>
+                            <tr>
+                                <td class="text-right" width="50%">Last Name:</td>
+                                <td><label for="" class="font-weight-bold" >Juan Carlos</label></td>
+                            </tr>
+                            <tr>
+                                <td class="text-right" width="50%">Birthday:</td>
+                                <td><label for="" class="font-weight-bold" >09/11/1990</label></td>
+                            </tr>
+                            <tr>
+                                <td class="text-right" width="50%">Gender:</td>
+                                <td><label for="" class="font-weight-bold" >Male</label></td>
+                            </tr>
+                            <tr>
+                                <td class="text-right" width="50%">State/Municipalities:</td>
+                                <td><label for="" class="font-weight-bold" >Aurora</label></td>
+                            </tr>
+                            <tr>
+                                <td class="text-right" width="50%">Mobile Number:</td>
+                                <td><label for="" class="font-weight-bold" >09123456789</label></td>
+                            </tr>
+                            <tr style="border-bottom: 1px solid white; border-width: 100%;">
+                                <td class="text-right" width="50%">Email Address:</td>
+                                <td><label for="" class="font-weight-bold" >juan_delacruz@email.com</label></td>
+                            </tr>
+                            
+                            <tr>
+                                <td class="text-right" width="50%">Delear / Store Name:</td>
+                                <td><label for="" class="font-weight-bold" >Jon Doe Maga Applicance</label></td>
+                            </tr>
+                            <tr>
+                                <td class="text-right" width="50%">Date of Purchase:</td>
+                                <td><label for="" class="font-weight-bold" >11/20/2021</label></td>
+                            </tr>
+                            <tr>
+                                <td class="text-right" width="50%">Appliance Owner Name:</td>
+                                <td><label for="" class="font-weight-bold" >Juan Dela Cruz</label></td>
+                            </tr>
+                            <tr>
+                                <td class="text-right" width="50%">Receipt Number:</td>
+                                <td><label for="" class="font-weight-bold" >10679937025</label></td>
+                            </tr>
+                            <tr>
+                                <td class="text-right" width="50%">OR Photo:</td>
+                                <td><label for="" class="font-weight-bold" ></label></td>
+                            </tr>
+                        </table>
+                        <div style="display: flex; margin:0 auto; justify-content: center;">
+                            <a  href="javascript:;" class="btn bg-yellow-btn text-white mr-3 xButtonClose cursor-event-pointer text-decoration-none">BACK</a>
+                            <a  href="javascript:;" class="btn bg-yellow-btn text-white cursor-event-pointer text-decoration-none">SUBMIT</a>
+                        </div>
+
+                      </div>
+                </div>
+                  
+                </div>
+
+                <!-- <div style="display: flex; margin: 0 auto; justify-content: center; margin-top:10px; margin-right: -30px;" class="text-center ">
+                    <a href="javascript:;" class="btn bg-yellow-btn btn-md text-white mr-3 xButtonClose text-decoration-none">BACK</a>
+                    <a class="btn bg-yellow-btn btn-md text-white text-decoration-none">SUBMIT</a>
+                </div> -->
+                <!-- <div class="buttonWrapper"><a href="javascript:;" class="button xButtonClose" style="border-radius: 0 !important;">OK</a></div> -->
+            </div>
+        </div>
+    </div>
+
+    <div id="SuccessMessage-old" class="messageWrapper">
+        <div class="messageContent">
+            <div style="background-color: #F1F1F1;width: 100%;height: 100%;padding: 20px 98px;">
+                <!-- <div class="check"><i class="fas fa-check"></i></div> -->
+                <img class="main-sent" src="images/main_sent.png" style="display: block; margin: auto; width: 195px; ">
+                <div class="messageTitle">YOUR REGISTRATION HAS BEEN SUBMITTED!</div>
+                <div class="messageBody">
+                    Please proceed with verifying your email address. We have sent a verification to your email.
+                    <br>
+
+                </div>
+                <div class="buttonWrapper"><a href="javascript:;" class="button xButtonClose"
+                        style="border-radius: 0 !important;">OK</a></div>
+            </div>
+        </div>
+    </div>
+    <div id="ActivationMessage" class="messageWrapper">
+        <div class="messageContent">
+            <div style="background-color: #F1F1F1;width: 100%;height: 100%;padding: 20px 98px;">
+                <!-- <div class="check"><i class="fas fa-check"></i></div> -->
+                <img class="main-sent" src="images/mail_verified.png"
+                    style="display: block; margin: auto; width: 195px; ">
+                <div class="messageTitle">YOUR EMAIL ADDRESS IS NOW VERIFIED!</div>
+                <div class="messageBody">
+                    Thank you for signing up to Haier Smart Life Club. Your registration will be reviewed by our team
+                    within the next few days.
+                    Once approved, you will receive your username and initial password via email which you can use to
+                    login to the member-only site. <br>
+                    Thanks!<br>
+
+                    <br>
+                    <b style="color: #096ac1">#MakeTheHaierSwitch</b>
+                </div>
+                <div class="buttonWrapper"><a href="javascript:;" class="button xButtonClose"
+                        style="border-radius: 0 !important;">OK</a></div>
+            </div>
+        </div>
+    </div>
+    <div id="Loading" class="messageWrapper">
+        <div class="messageContent" style="background: transparent;">
+            <div class="loader">
+                <div class="cell"></div>
+                <div class="cell"></div>
+                <div class="cell"></div>
+                <div class="cell"></div>
+            </div>
+        </div>
+    </div>
+    <div id="FailMessage" class="messageWrapper">
+        <div class="messageContent">
+            <div style="background-color: #F1F1F1;width: 100%;height: 100%;padding: 20px;">
+                <div class="messageTitle">Oops!</div>
+                <div class="messageBody">
+                    Something went wrong, please try again!
+                </div>
+                <div class="buttonWrapper"><a href="javascript:;" class="button xButtonClose">Okay</a></div>
+            </div>
+        </div>
+    </div>
+    <div id="TooBigMessage" class="messageWrapper">
+        <div class="messageContent">
+            <div style="background-color: #F1F1F1;width: 100%;height: 100%;padding: 20px;">
+                <div class="messageTitle">Oops!</div>
+                <div class="messageBody">
+                    File is too big, please select a smaller file!
+                </div>
+                <div class="buttonWrapper"><a href="javascript:;" class="button xButtonClose">Okay</a></div>
+            </div>
+        </div>
+    </div>
+    <div class="modal fade" id="dpt" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle"
+        style="z-index: 999999;" aria-hidden="true">
+        <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLongTitle">Data Privacy Terms</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <h5 style="font-weight:bold">Haier Electrical Appliances Phils. Inc. Data Privacy Policy</h5>
+                    <p>By agreeing to supply your personal information herein or any of its apps, you agree to the terms
+                        of this Agreement and that your registration information (name, phone, email), etc. may be
+                        transferred, stored and processed in H.P.I.’s database within and outside the Philippines, such
+                        as in its Singapore servers.</p>
+                    <p>Haier Electrical Appliances Philippines Inc. respects your privacy and has instituted physical
+                        and technical safeguards and policies that are intended to ensure that any personal information
+                        that you provide to us is handled in a safe and responsible manner.</p>
+                    <p>For your data privacy protection, it is not required to provide personal information in order to
+                        gain access to or browse our website. Personal information may be collected in various forms
+                        including product registrations, purchasing extended service agreements, e-mail messages, and
+                        requests for information from HPI.. By using our website, you consent to the collection, use and
+                        processing of this information by HPI.</p>
+                    <p>HPI may disclose your information to its Affiliates which are related to the company only as may
+                        be necessary to provide you with better services.
+                        For your added protection, H.P.I does not sell, trade nor rent the customer information provided
+                        to us to third parties. However, we may use personally identifiable information provided by
+                        visitors to fulfill the purpose for which such information was provided, as described by this
+                        Policy, and as disclosed at the time the visitor information is requested. Haier Philippines or
+                        one of our affiliate companies may use personal information collected for internal marketing
+                        purposes such as market research. It may also be used to contact you about the latest product
+                        information or special promotions.
+                    </p>
+                    <p>A technology called "cookies" may be used to provide you with tailored information. A cookie is a
+                        small data file that a website can send to your browser, which may then be stored on your hard
+                        drive so that we can recognize you when you return. Cookies do not alter your hard drive in any
+                        way and cannot be used to access any personal information from your computer.</p>
+                    <p>Your information will be stored for a period necessary for the purpose to which it was collected,
+                        in this case, not more than ten years. After which, it will be automatically deleted from the
+                        system unless you opt sooner.</p>
+
+                    <p>To ensure your privacy rights are fully protected, you have the right ask for details on the data
+                        we collected, ask a copy thereof, dispute the inaccuracy or error in the personal information
+                        and have the personal information controller correct it, suspend withdraw or order the blocking,
+                        removal or destruction of your personal information upon discovery that the personal information
+                        is incomplete , false or no longer necessary for the purpose to which it was collected.
+                    </p>
+                    <p>For more details, you can contact our Data Protection Officer at: <br>Data Protection Officer:
+                        Marc Anthony De Dios<br>Haier Electrical Appliances Phils Inc. </br>Reliance It Center, 99
+                        E.Rodriguez Jr.Ave.C-5, Pasig, 1604 Metro Manila<br>(02) 8695 3399</br>Or at his Email:
+                        marc.dedios@haier.com.ph</p>
+                    <p>Important Note:<br>H.P.I. .is committed to protecting the safety and privacy of children using
+                        the internet. This site is not intended for persons under 13 years of age. By entering this
+                        site, users verify that they are 13 years of age or older. In keeping with the Children's Online
+                        Privacy Protection Act, we will never knowingly request personal identification information from
+                        children under the age of 13.</p>
+                    <p>Disclaimer:<br>This statement is subject to revision without prior notification. H.P.I. may
+                        contain links to other websites and is not responsible for the content or privacy practices of
+                        other websites.</p>
+                    <button class="btn btn-info" data-dismiss="modal" aria-label="Close">I Agree</button>
+                </div>
+                <!--div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    <button type="button" class="btn btn-primary">Save changes</button>
+                </div-->
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript">
+        //new GA code
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-37473681-2']);
+        _gaq.push(['_setDomainName', 'haier.com']);
+        _gaq.push(['_trackPageview']);
+        (function () {
+            var ga = document.createElement('script');
+            ga.type =
+                'text/javascript';
+            ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' :
+                'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+    <script type="text/javascript">
+        function success(data) {
+            if (data.Success === true) {
+                $("#SuccessMessage").addClass("show");
+                $('#haier-form').find("input[type=text], textarea, input[type=email], input[type=file]").val("");
+                $('#haier-form').find("select").prop('selectedIndex', 0).trigger("change");
+                $('#haier-form').find("input[type=radio],input[type=radio],input[type=checkbox]").prop("checked",
+                    false);
+                grecaptcha.reset();
+            } else
+                $("#FailMessage").addClass("show");
+
+            $("#loading").hide();
+        }
+
+        function correctCaptcha() {
+            $("form").each(function () {
+                $(this).find(':input[type="submit"]').prop('disabled', false);
+            });
+        }
+        $(document).ready(function () {
+            var owl = $('.owl-carousel');
+            owl.owlCarousel({
+                loop:true,
+                margin:0,
+                nav:false,
+                responsive:{
+                    0:{
+                        items:1
+                    },
+                    600:{
+                        items:3
+                    },
+                    1000:{
+                        items:5
+                    }
+                }
+            });
+            // Go to the next item
+            $('.owl-prev').on("click", function() {
+                owl.trigger('prev.owl.carousel');
+            })
+            // Go to the previous item
+            $('.owl-next').on("click", function() {
+                owl.trigger('next.owl.carousel');
+            })
+            $("#haier-form").on("submit", function () {
+                $("#loading").show();
+            });
+            $("form").each(function () {
+                $(this).find(':input[type="submit"]').prop('disabled', true);
+            });
+
+            document.getElementById("fileToUpload").required;
+            $("#fileToUpload").on("change", function (e) {
+                var count = 1;
+                var file = e.currentTarget.files[0];
+                test = e;
+
+                var filesize = ((file.size / 1024) / 1024).toFixed(4); // MB
+                console.log(filesize);
+                if (!(file.name !== "item" && typeof file.name !== "undefined" && filesize <=
+                        10)) {
+                    $("#TooBigMessage").addClass("show");
+                    $("#fileToUpload").val("");
+                }
+            });
+
+            $(".button-upload").on("click", function () {
+                $("#fileToUpload").trigger("click");
+            });
+            $(".button").click(function () {
+                //$(".messageWrapper").addClass("show");
+            });
+
+            $(".xButtonClose").click(function () {
+                $(".messageWrapper").removeClass("show");
+            });
+
+            $('.datepicker').datepicker({
+                format: 'dd MM yyyy'
+            });
+            
+           
+
+        });
+        (function ($) {
+
+            $.fn.parallax = function (options) {
+
+                var windowHeight = $(window).height();
+                var settings = $.extend({
+                    speed: 0.15
+                }, options);
+
+                return this.each(function () {
+                    var $this = $(this);
+                    $(document).scroll(function () {
+
+                        var scrollTop = $(window).scrollTop();
+                        var offset = $this.offset().top;
+                        var height = $this.outerHeight();
+                        if (offset + height <= scrollTop || offset >= scrollTop +
+                            windowHeight) {
+                            return;
+                        }
+                        var topPosition = 0;
+                        var windowWidth = $(window).width();
+                    });
+                });
+            }
+        }(jQuery));
+
+        $('.parallax').parallax({
+            speed: 0.25
+        });
+
+        function getparams() {
+            var vars = [],
+                hash;
+            var hashes = window.location.href.slice(window.location.href.indexOf('?') + 1).split('&');
+            for (var i = 0; i < hashes.length; i++) {
+                hash = hashes[i].split('=');
+                vars.push(hash[0]);
+                vars[hash[0]] = coalesce(hash[1], '').split('#')[0].replace('%20', ' ');
+            }
+            return vars;
+        }
+
+        function coalesce(v, r) {
+            if (typeof (r) === 'undefined') r = '';
+            return (typeof (v) !== 'undefined' && v !== null ? v : r);
+        }
+
+        if (getparams()["activation"] !== undefined) {
+            $("#Loading").addClass("show");
+            $.post("https://haiersmartclub.com/umbraco/Surface/RegisterSurface/Activate", {
+                    code: getparams()["activation"]
+                },
+                function (data) {
+                    if (data.Success) {
+                        $("#ActivationMessage").addClass("show");
+                    } else {
+                        $("#FailMessage").addClass("show");
+                    }
+                    $("#Loading").removeClass("show");
+                });
+        }
+    </script>
+</body>
+
+</html>
